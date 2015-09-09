@@ -1,0 +1,6 @@
+GoldBit_SensorCorrente	KEYWORD1
+Sensor	KEYWORD1
+
+getState	KEYWORD2
+
+ACS722	LITERAL1
